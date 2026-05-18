@@ -1,8 +1,8 @@
 class Glowed < Formula
   desc "Ghostty-oriented terminal TUI Markdown browser/editor"
   homepage "https://github.com/khw1031/glowed"
-  url "https://github.com/khw1031/glowed/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "f2efe96fbf3082270f77723bf0e27729bc98599f5eafb8b2ca8f80d61721ced2"
+  url "https://github.com/khw1031/glowed/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "b79cbdb4af757ee10a9ddf263fa172c8031068aa3efd9a072c53116617a78ef2"
   license "MIT"
 
   depends_on "go" => :build
